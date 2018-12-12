@@ -1,0 +1,9 @@
+C:\TAYFUN\C#\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\TAYFUN\C#\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\TAYFUN\C#\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\TAYFUN\C#\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csprojResolveAssemblyReference.cache
+C:\TAYFUN\C#\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+C:\TAYFUN\C#\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Properties.Resources.resources
+C:\TAYFUN\C#\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.GenerateResource.Cache
+C:\TAYFUN\C#\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\TAYFUN\C#\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
