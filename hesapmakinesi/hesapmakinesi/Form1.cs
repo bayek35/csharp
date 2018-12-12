@@ -26,7 +26,7 @@ namespace hesapmakinesi
 
         private void button1_Click(object sender, EventArgs e)
         {
-            try
+            def
             {
                 double a, b, top;
           

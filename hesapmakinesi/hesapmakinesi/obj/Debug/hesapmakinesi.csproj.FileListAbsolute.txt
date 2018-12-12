@@ -7,3 +7,6 @@ C:\TAYFUN\C#\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Properties.Reso
 C:\TAYFUN\C#\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.GenerateResource.Cache
 C:\TAYFUN\C#\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
 C:\TAYFUN\C#\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
+C:\TAYFUN\GitHub\csharp\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\TAYFUN\GitHub\csharp\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\TAYFUN\GitHub\csharp\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
